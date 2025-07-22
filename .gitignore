@@ -1,0 +1,11 @@
+# Ignore Maven local repo and other temp files
+.m2/
+*.class
+*.log
+*.tmp
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+target/
